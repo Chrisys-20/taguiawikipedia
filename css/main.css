@@ -478,7 +478,7 @@ header nav ul li a{
 
 header nav ul li a.active{
 	pointer-events: all;
-	text-decoration: line-through;
+	/* text-decoration: line-through; */
 }
 
 .hamburger {
