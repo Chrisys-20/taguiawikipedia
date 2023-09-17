@@ -1,6 +1,6 @@
 <?php
 $from = $_POST['email'];
-$to      = 'chrisysdata@gmail.com';
+$to      = 'infos@tagusdrone.com';
 $subject = 'Besoin emis à partir du blog ';
 $message = $_POST['comments'];
 $headers = "From:" . $from;

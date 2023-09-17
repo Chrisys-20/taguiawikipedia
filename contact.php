@@ -16,7 +16,7 @@
     <div class="col-xl-5 scale-animation" data-duration="2">
       <div class="contact-info email">
         <p class="little-p info-title">Ecrivez Moi</p>
-        <a href="mailto:hello@mosbycreative.com">infos@tagusdrone.com</a>
+        <a href="mailto:infos@tagusdrone.com">infos@tagusdrone.com</a>
       </div>
       <div class="contact-info address">
         <p class="little-p info-title">Mes bureaux</p>
