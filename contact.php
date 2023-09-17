@@ -47,7 +47,7 @@
           </div>
           <!-- email -->
           <div class="col-xl-12 contact-bar">
-            <input class="inp" name="email" type="text" placeholder="Email" id="email">
+            <input class="inp" name="email" type="email" placeholder="Email" id="email">
           </div>
           <!-- phone -->
           <div class="col-xl-12 contact-bar">
