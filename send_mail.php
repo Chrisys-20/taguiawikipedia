@@ -2,7 +2,7 @@
 $from = $_POST['email'];
 $to      = 'chrisysdata@gmail.com';
 $subject = 'Besoin emis à partir du blog ';
-$message = 'hello';
+$message = $_POST['comments'];
 $headers = "From:" . $from;
 
 
