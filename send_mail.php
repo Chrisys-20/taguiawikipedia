@@ -31,11 +31,11 @@ mail($to, $subject, $message, $headers);
         <p>
         <ul>
             <h4 style="color: yellowgreen;">Message envoyé!!!</h4>
-            <li>Nom : <?= $_POST['name'] ?> </li>
+            <!-- <li>Nom : <?= $_POST['name'] ?> </li>
             <li>Email : <?= $_POST['email'] ?></li>
             <li>Contact :<?= $_POST['phone'] ?></li>
             <li>prenom : <?= $_POST['company'] ?> </li>
-            <li>Age : <?= $_POST['comments'] ?> </li>
+            <li>Age : <?= $_POST['comments'] ?> </li> -->
         </ul>
         </p>
     </div>
