@@ -1,8 +1,8 @@
 <?php
-$from = "taguia kana blog";
+$from = $_POST['email'];
 $to      = 'chrisysdata@gmail.com';
 $subject = 'Besoin emis à partir du blog ';
-$message = '';
+$message = 'hello';
 $headers = "From:" . $from;
 
 
